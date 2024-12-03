@@ -14,8 +14,7 @@ FIAP Pós Tech | Grupo 8 - Tech Challenge 4
 
 ## Coleta de Dados
 
-- Base principal - 
-- Bases paralelas - 
+- Base principal - IPEA
 
 
 ## Bibliotecas Utilizadas
@@ -26,35 +25,4 @@ FIAP Pós Tech | Grupo 8 - Tech Challenge 4
 - Scikit-learn
 
 > _Versão do Python utilizada no projeto 3.13.0_
-
-
-## Estrutura do Repositório
-O projeto está estruturado da seguinte forma:
-
-```plaintext
-projeto-petroleo-brent/
-│
-├── data/                  # Dados utilizados no projeto
-│
-├── notebooks/             # Contém os Jupyter Notebooks com análises
-│
-├── src/                   # Código-fonte do projeto
-│   ├── data_processing.py   # Processamento de dados
-│   ├── analysis.py          # Análises e visualizações
-│   └── model.py             # Modelagem preditiva
-│
-├── README.md              # Dependências do projeto
-└── requirements.txt       # Documentação do projeto
-```
-
-## Hipóteses
-
-## Conclusões
-
-# Referências
-
-- Período - 2020 
-
-- [[1]](https://g1.globo.com/economia/noticia/2020/12/10/petroleo-brent-supera-us-50-pela-1a-vez-desde-marco.ghtml) G1: Petróleo Brent supera US$ 50 pela 1ª vez desde março
-- [[2]](https://diplomatique.org.br/petroleo-acordos-e-desacordos/) Le Monde Diplomatique - Petróleo, acordos e desacordos
 
