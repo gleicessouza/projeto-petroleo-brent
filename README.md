@@ -26,3 +26,8 @@ FIAP Pós Tech | Grupo 8 - Tech Challenge 4
 
 > _Versão do Python utilizada no projeto 3.13.0_
 
+
+## Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiZWRjYjgwZDgtZjU1Yy00NjJkLTg0NjgtOGQwZTA0NWIxZGYyIiwidCI6IjU1MDUyNTc5LWRhNmEtNDExOS04NWIzLTAxOGE0YjY0MjA2MiJ9
+
+
