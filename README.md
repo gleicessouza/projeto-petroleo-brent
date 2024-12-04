@@ -28,6 +28,7 @@ FIAP Pós Tech | Grupo 8 - Tech Challenge 4
 
 
 ## Dashboard
+![dashboard](https://i.ibb.co/St1w7mT/Whats-App-Image-2024-12-03-at-23-36-14.jpg)
 https://app.powerbi.com/view?r=eyJrIjoiZWRjYjgwZDgtZjU1Yy00NjJkLTg0NjgtOGQwZTA0NWIxZGYyIiwidCI6IjU1MDUyNTc5LWRhNmEtNDExOS04NWIzLTAxOGE0YjY0MjA2MiJ9
 
 
