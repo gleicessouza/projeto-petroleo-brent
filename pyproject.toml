@@ -15,9 +15,9 @@ seaborn = "^0.13.2"
 datetime = "^5.5"
 ipeadatapy = "^0.1.9"
 yfinance = "^0.2.50"
-prophet = "^1.1.6"
 statsmodels = "^0.14.4"
 cmdstanpy = "^1.2.4"
+prophet = "^1.1.6"
 
 
 [build-system]
